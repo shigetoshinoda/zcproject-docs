@@ -2,18 +2,13 @@
 ##### by shigeto shinoda
 shigeto22shinoda@gmx.com
 
-------------
 
 > Francais
 
 ------------
-Bienvenue sur la page Github qui regroupe tous les documents concernant le projet ZorCoin (que ce soit du forum, de la programmation, tout ce qui se trouve dans le domaine informatique en général)
+Vous êtes sur la page "public_files", ici vous retrouverez tous les fichiers qui sont de shigeto ou de la communauté. Pour que la présentation de votre projet et pour demander que votre fichier soit upload, envoyez un mail à : shigeto22shinoda@gmx.com
 
-Je vous invite donc à visiter cette page et à découvrir et même lire, et partagez ces documents.
-
-Si vous souhaitez que votre document soit disponible en public dans le dossier github "public_files", vous pouvez faire la demande en envoyant un email à : shigeto22shinoda@gmx.com
-
-Vous pouvez retrouver le ZorCoin Project ici : [http://zcproject-talk.forumactif.com/](http://zcproject-talk.forumactif.com/)
+Je vous remercie,
 
 shigeto
 
@@ -24,12 +19,8 @@ shigeto
 by Google translate
 
 ------------
-Welcome on the page Github which gathers all the documents concerning the ZorCoin project (that of the forum, the programming, all that is in the computer field in general)
+You are on the page "public_files", here you will find all the files that are shigeto or community. For the presentation of your project and to request that your file be uploaded, send an email to: shigeto22shinoda@gmx.com
 
-I invite you to visit this page and to discover and even read, and share these documents.
+Thank you,
 
-If you want your document to be publicly available in the github "public_files" folder, you can make the request by sending an email to: shigeto22shinoda@gmx.com
-
-You can find the ZorCoin Project here: [http://zcproject-talk.forumactif.com/](http://zcproject-talk.forumactif.com/)
-
-shigeto
+Shigeto
