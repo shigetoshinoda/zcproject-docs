@@ -11,7 +11,7 @@ Bienvenue sur la page Github qui regroupe tous les documents concernant le proje
 
 Je vous invite donc à visiter cette page et à découvrir et même lire, et partagez ces documents.
 
-Si vous souhaitez que votre document soit disponible en public dans le dossier github "public_files", vous pouvez faire la demande en envoyant un email à : shigeto22shinoda@gmx.com
+Si vous souhaitez que votre document soit disponible en public dans le dossier github "[public_files](https://github.com/shigetoshinoda/zcproject-docs/tree/master/public_files)", vous pouvez faire la demande en envoyant un email à : shigeto22shinoda@gmx.com
 
 Vous pouvez retrouver le ZorCoin Project ici : [http://zcproject-talk.forumactif.com/](http://zcproject-talk.forumactif.com/)
 
@@ -28,7 +28,7 @@ Welcome on the page Github which gathers all the documents concerning the ZorCoi
 
 I invite you to visit this page and to discover and even read, and share these documents.
 
-If you want your document to be publicly available in the github "public_files" folder, you can make the request by sending an email to: shigeto22shinoda@gmx.com
+If you want your document to be publicly available in the github "[public_files](https://github.com/shigetoshinoda/zcproject-docs/tree/master/public_files)" folder, you can make the request by sending an email to: shigeto22shinoda@gmx.com
 
 You can find the ZorCoin Project here: [http://zcproject-talk.forumactif.com/](http://zcproject-talk.forumactif.com/)
 
